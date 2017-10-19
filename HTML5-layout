@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Page Title</title>
+    <link href="css/style.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+      <h1>Logo with text</h1>
+      <nav>
+          <ul>
+              <li><a href="#">Menu Option 1</a></li>
+              <li><a href="#">Menu Option 2</a></li>
+          </ul>
+      </nav>
+    </header>
+    <section>
+      <header>
+          <h2>Section Header</h2>
+      </header>
+      <article>
+          <header>
+              <h2>Article #1</h2>
+          </header>
+          <p>This is the first article.</p>
+      </article>
+        
+      <article>
+          <header>
+              <h2>Article #2</h2>
+          </header>
+          <p>This is the first article.</p>
+      </article>
+        
+      <article>
+          <header>
+              <h2>Article #3</h2>
+          </header>
+          <p>This is the first article.</p>
+      </article>
+    </section>
+    <aside>
+        <section>
+            <h2>Aside Section</h2>
+            <ul>
+                <li><a href="#">Link 1</a></li>
+                <li><a href="#">Link 2</a></li>
+            </ul>
+        </section>
+        <figure>
+            <img src="http://via.placeholder.com/350x150" alt="foobar"/>
+            <figcaption>Foobar</figcaption>
+        </figure>
+    </aside>
+    <footer>Footer</footer>
+</body>
+</html>
